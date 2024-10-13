@@ -32,7 +32,6 @@ Types of Elderly Care: Assisted living facilities represent the largest proporti
 A dashboard created in Power BI displays the number of beds, utilization rates, and distribution across different regions. This dashboard provides a clear and interactive way to monitor the status and resource allocation within the elderly care system.
 Overview:
 ![image](https://github.com/user-attachments/assets/c1b6f6a7-5f1a-45b7-a95f-94959533e2ee)
-Improved Text:
 Overview: The dashboard presents a comprehensive overview of the elderly care system, encompassing the number of facilities, bed availability, population distribution, and the operational status of healthcare centers.
 
 Sector: Healthcare

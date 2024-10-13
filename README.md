@@ -6,19 +6,19 @@ Introduction: This project provides a comprehensive overview of the distribution
 
 Summary: The project aims to deliver valuable insights that can guide critical decision-making processes regarding the management and allocation of resources within the elderly care sector through thorough data analysis.
 
-3. Research Questions or Objectives
+**3. Research Questions or Objectives**
 How are elderly care centers distributed across different regions of the United States, and how well are they serving the population?
 
 How do bed utilization rates and hospital statuses impact healthcare resource allocation?
 
 Which regions show a higher demand for elderly healthcare services and require more attention in terms of resource distribution?
 
-5. Data
+**4. Data**
 Source: Data obtained from Nursing Homes | HIFLD (arcgis.com), containing information on elderly care centers.
 
 Data Format: The dataset is in CSV format and includes details such as facility name, address, city, state, type of facility, operational status, bed count, and population.
 
-6. Methodology and Techniques
+**5. Methodology and Techniques**
 Tools Used:
 Python: Used for data cleaning and preprocessing.
 Power BI: Employed for data visualization.
@@ -27,12 +27,12 @@ Initial data checks and cleaning (verifying data types, number of rows and colum
 Handling outliers and logical inconsistencies in the data.
 Conducting analysis and making informed decisions based on the cleaned dataset.
 
-7. Analysis and Results
+**6. Analysis and Results**
 Healthcare Facility Distribution: The Southern and Midwest regions show a higher concentration of elderly care facilities compared to other regions.
 Bed Utilization Rate: The Northeast region has the highest bed utilization rate (95.37%), followed by the Midwest (87.12%)​(Nursing_homes (1)).
 Types of Elderly Care: Assisted living facilities represent the largest proportion of care services, followed by nursing care facilities.
 
-8. Dashboard or Visuals
+**7. Dashboard or Visuals**
 A dashboard created in Power BI displays the number of beds, utilization rates, and distribution across different regions. This dashboard provides a clear and interactive way to monitor the status and resource allocation within the elderly care system.
 Overview:
 ![image](https://github.com/user-attachments/assets/c1b6f6a7-5f1a-45b7-a95f-94959533e2ee)
@@ -50,7 +50,7 @@ Detail
 * US Territories
 ![image](https://github.com/user-attachments/assets/99445e65-e379-4c09-a543-a9f1f95629a7)
 
-9. Conclusion
+**8. Conclusion**
 _Key Findings_
 * Geographic Disparity in Facility Distribution: There is a noticeable concentration of elderly care facilities in the Southern and Midwest regions, which may suggest that these areas have historically higher demand or more favorable regulations for establishing care facilities. In contrast, regions like the West show a lower density of such facilities despite having a growing elderly population, which may require attention in future planning.
 

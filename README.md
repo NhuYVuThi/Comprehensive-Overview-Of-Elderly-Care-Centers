@@ -1,4 +1,4 @@
-1. Project Title
+1. Project Title:
 Comprehensive Overview of Elderly Care Centers
 
 2. Project Description

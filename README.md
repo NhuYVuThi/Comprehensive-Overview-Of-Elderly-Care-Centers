@@ -1,17 +1,21 @@
-1. Project Title:
+**1. Project Title:**
 Comprehensive Overview of Elderly Care Centers
 
-2. Project Description
+**2. Project Description**
 Introduction: This project provides a comprehensive overview of the distribution of elderly care centers, the population served, the operational status of hospitals, and bed utilization rates across the United States. The primary goal is to support efficient resource allocation and healthcare planning.
+
 Summary: The project aims to deliver valuable insights that can guide critical decision-making processes regarding the management and allocation of resources within the elderly care sector through thorough data analysis.
 
 3. Research Questions or Objectives
 How are elderly care centers distributed across different regions of the United States, and how well are they serving the population?
+
 How do bed utilization rates and hospital statuses impact healthcare resource allocation?
+
 Which regions show a higher demand for elderly healthcare services and require more attention in terms of resource distribution?
 
 5. Data
 Source: Data obtained from Nursing Homes | HIFLD (arcgis.com), containing information on elderly care centers.
+
 Data Format: The dataset is in CSV format and includes details such as facility name, address, city, state, type of facility, operational status, bed count, and population.
 
 6. Methodology and Techniques
@@ -47,7 +51,7 @@ Detail
 ![image](https://github.com/user-attachments/assets/99445e65-e379-4c09-a543-a9f1f95629a7)
 
 9. Conclusion
-Key Findings
+_Key Findings_
 * Geographic Disparity in Facility Distribution: There is a noticeable concentration of elderly care facilities in the Southern and Midwest regions, which may suggest that these areas have historically higher demand or more favorable regulations for establishing care facilities. In contrast, regions like the West show a lower density of such facilities despite having a growing elderly population, which may require attention in future planning.
 
 * Bed Utilization Rates Vary Significantly: The analysis shows that bed utilization rates are highest in the Northeast (95.37%) and Southern regions, indicating a potential strain on resources in these areas. Conversely, the Midwest and West have lower utilization rates (87.12% and below), suggesting some excess capacity or underutilization of healthcare resources in these regions.
@@ -56,7 +60,7 @@ Key Findings
 
 * Healthcare Facility Operational Status: A notable portion of care facilities is reported as closed or inactive, particularly in certain states, raising concerns about access to care in those regions. This could be due to financial constraints, changing regulations, or the consolidation of services into fewer, larger centers.
 
-Recommendations
+_Recommendations_
 * Targeted Resource Allocation in High-Demand Regions: Given the high bed utilization in regions like the Northeast and South, it is essential to prioritize resource allocation to these areas. Expanding the number of facilities or increasing the capacity of existing ones would help relieve pressure on the healthcare system and improve access to care for the elderly population.
 
 * Reevaluation of Underutilized Facilities: For regions like the West and Midwest with lower bed utilization rates, there may be opportunities to reallocate or repurpose unused beds and resources. These areas should be evaluated to understand if excess capacity can be shifted to other regions or if strategic consolidation of services is warranted to optimize operational efficiency.

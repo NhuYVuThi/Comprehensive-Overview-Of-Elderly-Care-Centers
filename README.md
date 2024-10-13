@@ -32,6 +32,23 @@ Types of Elderly Care: Assisted living facilities represent the largest proporti
 A dashboard created in Power BI displays the number of beds, utilization rates, and distribution across different regions. This dashboard provides a clear and interactive way to monitor the status and resource allocation within the elderly care system.
 Overview:
 ![image](https://github.com/user-attachments/assets/c1b6f6a7-5f1a-45b7-a95f-94959533e2ee)
+Improved Text:
+Overview: The dashboard presents a comprehensive overview of the elderly care system, encompassing the number of facilities, bed availability, population distribution, and the operational status of healthcare centers.
+
+Sector: Healthcare
+
+Target Audience: Investors and policymakers
+
+Geographical Distribution: There is a significant disparity in the distribution of care facilities and available beds across regions, indicating an uneven demand for elderly care. The Southern region has the highest concentration of facilities and beds, while the U.S. territories have the lowest. This discrepancy can be attributed to various factors, such as population density, living standards, state-specific healthcare policies, and the aging demographic structure.
+
+Facility Status: While most healthcare centers remain operational, a small number have closed, potentially due to several factors:
+
+Population Decline: In areas where the elderly population is decreasing, the demand for beds may naturally decline.
+Shift in Care Models: The growing trend toward transitioning from hospital-based care to home-based or community-based care facilities may contribute to the closure of some hospitals.
+Financial Issues: Smaller hospitals may face challenges in remaining operational due to high costs and low revenue streams.
+High Bed Utilization Rates: The high bed utilization, particularly in the Southern region, reflects a continued demand for beds. However, further assessment is necessary to evaluate the quality of care provided by these facilities.
+
+Preference for Home-Based Care: The predominance of assisted living facilities suggests that most elderly individuals prefer to maintain independence in their daily lives for as long as possible. This trend raises the demand for home-based care services, such as home healthcare, personal assistance, and community programs.
 Detail
 * Midwest
 ![image](https://github.com/user-attachments/assets/c91b3ea8-94fc-41d6-85bf-f6e249b9e160)

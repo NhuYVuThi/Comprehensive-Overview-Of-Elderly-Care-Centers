@@ -13,8 +13,8 @@ How do bed utilization rates and hospital statuses impact healthcare resource al
 
 Which regions show a higher demand for elderly healthcare services and require more attention in terms of resource distribution?
 
-**4. Data**
-Source: Data obtained from Nursing Homes | HIFLD (arcgis.com), containing information on elderly care centers.
+****4. DataSource:**
+Data obtained from Nursing Homes | HIFLD (arcgis.com), containing information on elderly care centers.
 
 Data Format: The dataset is in CSV format and includes details such as facility name, address, city, state, type of facility, operational status, bed count, and population.
 

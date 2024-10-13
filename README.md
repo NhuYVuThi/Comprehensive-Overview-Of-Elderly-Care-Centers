@@ -30,24 +30,39 @@ Types of Elderly Care: Assisted living facilities represent the largest proporti
 
 7. Dashboard or Visuals
 A dashboard created in Power BI displays the number of beds, utilization rates, and distribution across different regions. This dashboard provides a clear and interactive way to monitor the status and resource allocation within the elderly care system.
+Overview:
+![image](https://github.com/user-attachments/assets/c1b6f6a7-5f1a-45b7-a95f-94959533e2ee)
+Detail
+* Midwest
+![image](https://github.com/user-attachments/assets/c91b3ea8-94fc-41d6-85bf-f6e249b9e160)
+* NorthEast
+![image](https://github.com/user-attachments/assets/0bf2773d-4ea1-411d-9765-3470d39523d0)
+* South
+![image](https://github.com/user-attachments/assets/06aa7224-72a4-41f3-b4d0-e616f1cd0b5a)
+* SouthEast
+![image](https://github.com/user-attachments/assets/bf357eb3-cc62-439f-8888-9570cb97ad55)
+* West
+![image](https://github.com/user-attachments/assets/9d040f9d-e5ea-4c27-b4f0-497d2d370f58)
+* US Territories
+![image](https://github.com/user-attachments/assets/99445e65-e379-4c09-a543-a9f1f95629a7)
 
-8. Conclusion
-* Key Findings
-Geographic Disparity in Facility Distribution: There is a noticeable concentration of elderly care facilities in the Southern and Midwest regions, which may suggest that these areas have historically higher demand or more favorable regulations for establishing care facilities. In contrast, regions like the West show a lower density of such facilities despite having a growing elderly population, which may require attention in future planning.
+9. Conclusion
+Key Findings
+* Geographic Disparity in Facility Distribution: There is a noticeable concentration of elderly care facilities in the Southern and Midwest regions, which may suggest that these areas have historically higher demand or more favorable regulations for establishing care facilities. In contrast, regions like the West show a lower density of such facilities despite having a growing elderly population, which may require attention in future planning.
 
-Bed Utilization Rates Vary Significantly: The analysis shows that bed utilization rates are highest in the Northeast (95.37%) and Southern regions, indicating a potential strain on resources in these areas. Conversely, the Midwest and West have lower utilization rates (87.12% and below), suggesting some excess capacity or underutilization of healthcare resources in these regions.
+* Bed Utilization Rates Vary Significantly: The analysis shows that bed utilization rates are highest in the Northeast (95.37%) and Southern regions, indicating a potential strain on resources in these areas. Conversely, the Midwest and West have lower utilization rates (87.12% and below), suggesting some excess capacity or underutilization of healthcare resources in these regions.
 
-Types of Care and Facility Capacity: Assisted living facilities dominate the types of care offered, followed by nursing care facilities. This dominance may reflect a trend towards offering less intensive, more community-oriented care, as opposed to full-time nursing care. Additionally, the capacity for specialized care (e.g., memory care) appears limited, indicating potential gaps in serving specific needs of the elderly population.
+* Types of Care and Facility Capacity: Assisted living facilities dominate the types of care offered, followed by nursing care facilities. This dominance may reflect a trend towards offering less intensive, more community-oriented care, as opposed to full-time nursing care. Additionally, the capacity for specialized care (e.g., memory care) appears limited, indicating potential gaps in serving specific needs of the elderly population.
 
-Healthcare Facility Operational Status: A notable portion of care facilities is reported as closed or inactive, particularly in certain states, raising concerns about access to care in those regions. This could be due to financial constraints, changing regulations, or the consolidation of services into fewer, larger centers.
+* Healthcare Facility Operational Status: A notable portion of care facilities is reported as closed or inactive, particularly in certain states, raising concerns about access to care in those regions. This could be due to financial constraints, changing regulations, or the consolidation of services into fewer, larger centers.
 
-* Recommendations
-Targeted Resource Allocation in High-Demand Regions: Given the high bed utilization in regions like the Northeast and South, it is essential to prioritize resource allocation to these areas. Expanding the number of facilities or increasing the capacity of existing ones would help relieve pressure on the healthcare system and improve access to care for the elderly population.
+Recommendations
+* Targeted Resource Allocation in High-Demand Regions: Given the high bed utilization in regions like the Northeast and South, it is essential to prioritize resource allocation to these areas. Expanding the number of facilities or increasing the capacity of existing ones would help relieve pressure on the healthcare system and improve access to care for the elderly population.
 
-Reevaluation of Underutilized Facilities: For regions like the West and Midwest with lower bed utilization rates, there may be opportunities to reallocate or repurpose unused beds and resources. These areas should be evaluated to understand if excess capacity can be shifted to other regions or if strategic consolidation of services is warranted to optimize operational efficiency.
+* Reevaluation of Underutilized Facilities: For regions like the West and Midwest with lower bed utilization rates, there may be opportunities to reallocate or repurpose unused beds and resources. These areas should be evaluated to understand if excess capacity can be shifted to other regions or if strategic consolidation of services is warranted to optimize operational efficiency.
 
-Increase Specialized Care Capacity: There is a growing need for specialized elderly care services, such as memory care and long-term care facilities. Investments should be made to expand the availability of these services, particularly in regions with aging populations but limited access to such specialized care.
+* Increase Specialized Care Capacity: There is a growing need for specialized elderly care services, such as memory care and long-term care facilities. Investments should be made to expand the availability of these services, particularly in regions with aging populations but limited access to such specialized care.
 
-Support for Facility Sustainability and Reactivation: Regions with a significant number of closed or inactive facilities may benefit from policies aimed at supporting the reactivation of these centers, whether through financial aid, regulatory relief, or incentivizing private investment. This could help bridge gaps in care, particularly in underserved rural areas or regions facing financial challenges.
+* Support for Facility Sustainability and Reactivation: Regions with a significant number of closed or inactive facilities may benefit from policies aimed at supporting the reactivation of these centers, whether through financial aid, regulatory relief, or incentivizing private investment. This could help bridge gaps in care, particularly in underserved rural areas or regions facing financial challenges.
 
-Planning for Future Elderly Care Needs: As the elderly population is projected to grow, especially in certain regions, it is critical to conduct future demand forecasting and adjust long-term healthcare infrastructure plans accordingly. This could involve building new facilities, expanding home-based care options, or enhancing existing centers to meet the anticipated rise in demand.
+* Planning for Future Elderly Care Needs: As the elderly population is projected to grow, especially in certain regions, it is critical to conduct future demand forecasting and adjust long-term healthcare infrastructure plans accordingly. This could involve building new facilities, expanding home-based care options, or enhancing existing centers to meet the anticipated rise in demand.
